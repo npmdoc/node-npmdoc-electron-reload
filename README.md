@@ -1,9 +1,14 @@
-# api documentation for  [electron-reload (v1.1.0)](https://github.com/yan-foto/electron-reload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-reload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-reload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-reload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-reload)
+# npmdoc-electron-reload
+
+#### api documentation for  [electron-reload (v1.1.0)](https://github.com/yan-foto/electron-reload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-reload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-reload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-reload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-reload)
+
 #### Simplest way to reload an electron app on file changes!
 
-[![NPM](https://nodei.co/npm/electron-reload.png?downloads=true)](https://www.npmjs.com/package/electron-reload)
+[![NPM](https://nodei.co/npm/electron-reload.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/electron-reload)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-electron-reload/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-electron-reload_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-electron-reload/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-electron-reload/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-electron-reload/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-electron-reload/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-electron-reload/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-electron-reload/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Yan Foto",
-        "email": "yan.foto@quaintous.com"
+        "name": "Yan Foto"
     },
     "bugs": {
         "url": "https://github.com/yan-foto/electron-reload/issues"
@@ -45,13 +49,11 @@
     "main": "main.js",
     "maintainers": [
         {
-            "name": "yan-foto",
-            "email": "yan.foto@quaintous.com"
+            "name": "yan-foto"
         }
     ],
     "name": "electron-reload",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yan-foto/electron-reload.git"
@@ -60,16 +62,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module electron-reload](#apidoc.module.electron-reload)
-
-
-
-# <a name="apidoc.module.electron-reload"></a>[module electron-reload](#apidoc.module.electron-reload)
 
 
 
