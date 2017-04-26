@@ -1,6 +1,6 @@
 # npmdoc-electron-reload
 
-#### api documentation for  [electron-reload (v1.1.0)](https://github.com/yan-foto/electron-reload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-reload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-reload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-reload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-reload)
+#### basic api documentation for  [electron-reload (v1.1.0)](https://github.com/yan-foto/electron-reload#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-electron-reload.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-electron-reload) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-electron-reload.svg)](https://travis-ci.org/npmdoc/node-npmdoc-electron-reload)
 
 #### Simplest way to reload an electron app on file changes!
 
@@ -59,7 +59,8 @@
         "url": "git+https://github.com/yan-foto/electron-reload.git"
     },
     "scripts": {},
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
